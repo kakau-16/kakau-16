@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @kakau-16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ### bem vindo ao meu perfil 🍒
 
-<!---
-kakau-16/kakau-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- meu nome é kauane rilary
+
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço par organização e compartilhamento de projetos desenvolvidos
+
+- ## para entrar em contato comigo 🌸
+
+- kauaneslytherin@gmail.com
+
+- @kauanne_ferreiraaa
+
+- ![](https://media1.tenor.com/m/REOZA7Jxek8AAAAd/football.gif)
+- 
+
